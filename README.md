@@ -1,7 +1,5 @@
 # Linux-101
 
---------------------------------------------------------------------------------
-
 ## About Linux
 
 Linux is a free, open-source operating system. It broadly denotes operating systems distributions built around the Linux kernel. Linux kernel is an operating system kernel first released on September 17, 1991 by [Linus Torvadls](https://en.wikipedia.org/wiki/Linus_Torvalds).
